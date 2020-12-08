@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning PHP,JAVA,JS,HTML  
+🌱 I’m currently learning PHP,JAVA,JS,HTML,C  
 👯 I’m looking to collaborate on Some Minecraft stuff ...  
 💬 Tell me about You ...  
 📫 How to reach me: Open a Issuse  
