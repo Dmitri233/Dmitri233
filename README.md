@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🌱 I’m currently learning PHP,JAVA,JS,HTML
+👯 I’m looking to collaborate on Some Minecraft stuff ...
+💬 Tell me about You ...
+📫 How to reach me: Open a Issuse
+😄 They hate my development
 <!--
 **Dmitri233/Dmitri233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
